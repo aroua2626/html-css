@@ -1,0 +1,55 @@
+body {
+    height: 100vh;
+    background-color: beige;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0 50px;
+}
+
+.left, .right {
+    display: flex;
+}
+.yellow{
+    background-color: rgb(234, 165, 28);
+    width: 4cm;
+    height: 5cm;
+}
+.green{
+    background-color: rgb(168, 231, 168);
+    width: 8cm;
+    height: 5cm;
+}
+.blue{
+    background-color: rgb(19, 94, 180);
+    width: 8cm;
+    height: 5cm;
+}
+.red {
+    background-color: red;
+    width: 3cm;
+    height: 5cm;
+}
+.red2 {
+    background-color:red;
+    width: 3cm;
+    height: 5cm;
+}
+.black{
+    background-color: rgb(81, 74, 74);
+    width:2cm;
+    height:5cm;
+}
+.centre{
+    background-color: rgb(81, 74, 74);
+    width: 4cm;
+    height: 5cm;
+}
+
